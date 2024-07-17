@@ -52,7 +52,6 @@ Github Actions:
     plugin: flipt
     args: |
       setup
-    working-directory: example
 - name: Show flipt version
   run: |
     type flipt
